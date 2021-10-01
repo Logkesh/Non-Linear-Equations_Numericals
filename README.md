@@ -1,2 +1,3 @@
 # Non-Linear-Equations_Numericals
-Finding the exact root for all equations is impossible. So there are some methods, which returns an approximate roots.
+<h3>Finding the exact root for all equations is impossible. So there are some methods, which returns an approximate roots.The above codes will help in doing that a much simpler tasks.</h3>
+Trying to update more for non-error code...
